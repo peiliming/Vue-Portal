@@ -1,4 +1,4 @@
-# vue-spa-delivery
+# vue-google-portal
 
 ## Project setup
 ```
